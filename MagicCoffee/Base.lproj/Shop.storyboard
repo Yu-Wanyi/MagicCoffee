@@ -1270,7 +1270,7 @@
                                                         <children>
                                                             <command title="None" id="QJ8-xp-fdV">
                                                                 <connections>
-                                                                    <action selector="selectTeam" destination="SWT-gq-Nsd" id="zf3-NT-HIR"/>
+                                                                    <action selector="selectItem" destination="SWT-gq-Nsd" id="d2o-gx-rwk"/>
                                                                 </connections>
                                                             </command>
                                                             <command title="Cow's" id="jtn-XC-WQp">
@@ -1341,7 +1341,7 @@
                                                         <children>
                                                             <command title="None" id="kxm-3a-JIP">
                                                                 <connections>
-                                                                    <action selector="selectTeam" destination="SWT-gq-Nsd" id="Rts-JJ-Z0R"/>
+                                                                    <action selector="selectItem" destination="SWT-gq-Nsd" id="7sk-QS-BCf"/>
                                                                 </connections>
                                                             </command>
                                                             <command title="Amaretto" id="Sm3-Bo-rD1">
@@ -2439,7 +2439,6 @@ Bradford BD1 1PR </string>
         <!--View Controller-->
         <scene sceneID="ijE-zr-ag7">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="2kf-Qv-WAF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController id="7YR-X1-RZ5" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="qYz-8I-5e6">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
@@ -2499,6 +2498,7 @@ at a coffee shop to receive an order.</string>
                     </view>
                     <navigationItem key="navigationItem" id="LK1-C6-Bo9"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2kf-Qv-WAF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5501.5267175572517" y="903.52112676056345"/>
         </scene>
