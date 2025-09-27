@@ -1,6 +1,6 @@
-# MagicCoffe ☕️
+# MagicCoffee ☕️
 
-MagicCoffe 是一個依照 [Figma 設計稿](https://www.figma.com/community/file/1032782759644907635) 實作的 iOS App，主要目的是練習使用 **UIKit** 在 Xcode 上完成設計轉換與畫面還原。  
+MagicCoffee 是一個依照 [Figma 設計稿](https://www.figma.com/community/file/1032782759644907635) 實作的 iOS App，主要目的是練習使用 **UIKit** 在 Xcode 上完成設計轉換與畫面還原。  
 
 ---
 
